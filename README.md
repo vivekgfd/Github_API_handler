@@ -12,8 +12,4 @@ To successfully install application you need to have installed [java](https://ww
 
 Open folder where you want to have project files, open console and then clone the repository
 
-    git clone https://github.com/maciekiwaniuk/github-api-handler
 
-# Application appearance
-
-![](https://github.com/maciekiwaniuk/github-api-handler/raw/main/app/src/main/resources/readme/appearance.gif)
